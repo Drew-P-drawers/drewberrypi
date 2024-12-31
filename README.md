@@ -6,7 +6,7 @@ I want visibility into what I tried, how I failed, and how I fixed it. There's a
 
 ## Guides
 
-- [Using GitHub directory through CLI on Raspberry Pi OS](https://github.com/Dr3wPdraw3rs/drewberrypi/blob/main/Setup/git.md)
+- [Using GitHub directly through CLI on Raspberry Pi OS](https://github.com/Dr3wPdraw3rs/drewberrypi/blob/main/Setup/git.md)
 - [Set up local stream of Logitech c920 over WiFi](https://github.com/Dr3wPdraw3rs/drewberrypi/blob/main/projects/motion-ip-camera.md)
 
 ## Equipment I'm using:
