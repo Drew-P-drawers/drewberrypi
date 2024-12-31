@@ -2,7 +2,7 @@
 
 I got this working using [Motion](https://motion-project.github.io/) to make sure my 3D prints weren't running amuck on my old Creality Ender 3 PRO. It's got some issues.
 
-![gif](/assets/ip-webcam-3d-printer.gif)
+![gif](/assets/images/ip-webcam-3d-printer.gif)
 
 I initially discovered and set up motion using this guide:
 https://pimylifeup.com/raspberry-pi-webcam-server/
