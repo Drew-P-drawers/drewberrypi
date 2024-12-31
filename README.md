@@ -4,9 +4,10 @@ Going to just jot down everything that’s happening since I got the RaspberryPi
 I want visibility into what I tried, how I failed, and how I fixed it. There's an art to troubleshooting, and I'll be doing a lot of it. Hopefully that means I can do it less.
 
 
-## Guide
+## Guides
 
 - [Using GitHub directory through CLI on Raspberry Pi OS](https://github.com/Dr3wPdraw3rs/drewberrypi/blob/main/Setup/git.md)
+- [Set up local stream of Logitech c920 over WiFi](https://github.com/Dr3wPdraw3rs/drewberrypi/blob/main/projects/motion-ip-camera.md)
 
 ## Equipment I'm using:
 
